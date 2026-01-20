@@ -161,7 +161,7 @@ function App() {
             className="text-center"
           >
             <a
-              href="https://github.com/wilkebakker/thedownloader/releases/latest/download/TheDownloader-1.1.dmg"
+              href="https://github.com/wilkebakker/thedownloader/releases/latest/download/TheDownloader.dmg"
               className="inline-flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 rounded-xl font-semibold transition-all shadow-lg shadow-indigo-500/25"
             >
               <DownloadIcon />
@@ -346,7 +346,7 @@ function InteractiveShowcase() {
           </div>
 
           <a
-            href="https://github.com/wilkebakker/thedownloader/releases/latest/download/TheDownloader-1.1.dmg"
+            href="https://github.com/wilkebakker/thedownloader/releases/latest/download/TheDownloader.dmg"
             className="inline-flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 rounded-xl font-semibold transition-all shadow-lg shadow-indigo-500/25"
           >
             <DownloadIcon />
