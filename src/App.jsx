@@ -11,7 +11,7 @@ const tools = [
     features: ['YouTube, TikTok, Instagram', 'Media Converter', 'Finder Quick Actions', 'Project Folder Management'],
     icon: '⬇️',
     color: 'from-indigo-500 to-purple-600',
-    downloadUrl: '/TheDownloader.dmg',
+    downloadUrl: 'https://github.com/wilkebakker/tools-for-creatives/releases/latest/download/TheDownloader.dmg',
     available: true,
   },
   {
@@ -187,7 +187,7 @@ function App() {
                   </div>
 
                   <a
-                    href="/TheDownloader.dmg"
+                    href="https://github.com/wilkebakker/tools-for-creatives/releases/latest/download/TheDownloader.dmg"
                     className="inline-flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 rounded-xl font-semibold transition-all shadow-lg shadow-indigo-500/25"
                   >
                     <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -380,7 +380,7 @@ function App() {
             className="text-center"
           >
             <a
-              href="/TheDownloader.dmg"
+              href="https://github.com/wilkebakker/tools-for-creatives/releases/latest/download/TheDownloader.dmg"
               className="inline-flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 rounded-xl font-semibold transition-all shadow-lg shadow-indigo-500/25"
             >
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
